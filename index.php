@@ -5,7 +5,7 @@
         <script type="text/javascript" src="assets/js/jquery.js"></script>
         <script type="text/javascript" src="assets/js/Bootstrap.js"></script>
     </head>
-    <body style="background: white;">
+    <body style="background: pink;">
         <br><br><br><br>
         <center>
             <h2>SISTEM INFORMASI LAUNDRY</h2>
